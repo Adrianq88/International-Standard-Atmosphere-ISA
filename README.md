@@ -4,9 +4,9 @@
 This project contains a MATLAB program that calculates atmospheric parameters based on the International Standard Atmosphere (ISA). The program allows obtaining data such as atmospheric pressure, atmospheric air density, atmospheric temperature, and the speed of sound depending on the input altitude.
 
 ## Features
+- Calculate atmospheric temperature based on altitude and generate a plot illustrating the relationship between atmospheric temperature and altitude.
 - Calculate atmospheric pressure based on altitude.
 - Calculate atmospheric air density based on altitude.
-- Calculate atmospheric temperature based on altitude.
 - Calculate the speed of sound in the atmosphere based on altitude.
 
 ## System Requirements
