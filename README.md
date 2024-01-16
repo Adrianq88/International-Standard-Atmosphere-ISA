@@ -13,7 +13,7 @@ This project contains a MATLAB program that calculates atmospheric parameters ba
 The program requires the MATLAB environment to run.
 
 ## How to Use
-1. Run the program "wybor_menu" in the MATLAB environment.
+1. Run the 'wybor_menu' program in the MATLAB environment after ensuring that all five files are downloaded and located in the same folder.
 2. Input the desired altitude.
 3. The program will return values for atmospheric pressure, air density, atmospheric temperature, and the speed of sound for the given altitude.
 
